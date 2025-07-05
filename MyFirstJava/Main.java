@@ -3,7 +3,7 @@ public class Main {
         System.out.println("Hello, This is Akshay Here Started Java on 2024");
 
         String name = "AKshay Gohrava";
-        int age = 24;
+        int age = 23;
         float weight = 85.77f;
         boolean love = true;
         char firstletter = 'A';
